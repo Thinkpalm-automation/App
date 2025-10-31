@@ -11,7 +11,7 @@ class SampleClass:
     """Sample class for testing"""
     
     def __init__(self):
-        self.value = 42
+        self.value = 43
     
     def get_value(self):
         """Get the value"""
