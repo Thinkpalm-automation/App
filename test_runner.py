@@ -115,7 +115,7 @@ class FileTester:
         print("="*60)
         print(f"Total files tested: {summary['total']}")
         print(f"Passed: {summary['passed']} ✓")
-        print(f"Failed: {summary['failed']} ✗")
+        print(f"Failed: {summary['faled']} ✗")
         print(f"Warnings: {summary['warnings']} ⚠")
         print("="*60)
         
