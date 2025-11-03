@@ -5,7 +5,7 @@ This file can be used to test the test_runner.py application
 
 def hello_world():
     """Simple function"""
-    return "Hello, World!"
+    return "Hello, World123"
 
 class SampleClass:
     """Sample class for testing"""
